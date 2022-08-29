@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(248, 242, 242);
+}
+.maindiv{
+    display: flex;
+    justify-content: center;
+
+}
+.perant1{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+
+}
+/* .ch1rightperant1{
+    background-color: #FFC107;
+    height: 400px;
+    position: absolute;
+    z-index: -1;
+} */
+.ch2leftperant1{
+    width: 50%;
+    margin-left: -42%;
+    margin-bottom: 19%;
+    z-index: -1;
+}
+.imgperant1{
+    width: 50%;
+
+}
